@@ -28,14 +28,15 @@ Connect to the game server using SSH with the following parameters:
 To complete this level, we use the SSH command with specific flags to connect to the non-standard port. Here's the command:
 
 ```
-ssh bandit.labs.overthewire.org -p 2220
+ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
 Let's break down the command:
 
 * ssh: Initiates a secure shell connection
+* bandit0: Specifies the username we're logging in with
 * bandit.labs.overthewire.org: Specifies the username and host
-* \-p 2220: Indicates the port number to connect to
+* \-p 2220: Indicates the port number to connect to (2220 instead of the default 22)
 
 Upon execution you'll be prompted for the password, Enter **bandit0** when asked.
 

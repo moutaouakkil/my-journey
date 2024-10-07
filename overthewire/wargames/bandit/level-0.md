@@ -42,7 +42,7 @@ Upon execution you'll be prompted for the password, Enter **bandit0** when asked
 
 
 
-#### Lessons Learned
+#### Summary
 
 This first level might seem trivial, but it actually teaches us quite a bit. We got hands-on experience with SSH. which is a tool you'll use constantly in cybersecurity. We also learned about connecting to non-standard port - a common scenario in real-world systems. Plus, we practiced using provided credentials, which is crucial for any penetration testing or security assessment.
 

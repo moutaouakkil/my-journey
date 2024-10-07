@@ -8,6 +8,8 @@ The password for the next level is stored in a file called **readme** located in
 
 ### Write-Up
 
+#### Objective
+
 Locate and retrieve the password stored in the **readme** file within the home directory, then use it to access the next level.
 
 
@@ -44,7 +46,7 @@ When prompted, enter the password retrieved from the **readme** file.
 
 
 
-#### Lessons Learned
+#### Summary
 
 We practiced basic file system navigation and learned the importance of checking obvious places for information. It's a reminder that sometimes sensitive data, like passwords, can be found in plain sight. The game also emphasizes the value of command-line proficiency, particularly in using common utilities like **ls** and **cat**. These skills form the backbone of system exploration and information gathering, crucial in both attack and defense scenarios in cybersecurity.
 

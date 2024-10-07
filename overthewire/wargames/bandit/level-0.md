@@ -27,7 +27,7 @@ Connect to the game server using SSH with the following parameters:
 
 To complete this level, we use the SSH command with specific flags to connect to the non-standard port. Here's the command:
 
-```
+```sh
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 

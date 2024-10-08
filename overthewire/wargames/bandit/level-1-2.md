@@ -22,7 +22,7 @@ Retrieve the password stored in the file named <mark style="color:orange;">-</ma
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the existence of a file named <mark style="color:orange;">-</mark>.
 
@@ -32,7 +32,7 @@ This confirms the existence of a file named <mark style="color:orange;">-</mark>
 cat ./-
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="cat ./-"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="cat ./-"><figcaption></figcaption></figure>
 
 Note: We use <mark style="color:orange;">./</mark> to prefix the filename because <mark style="color:orange;">cat</mark> interprets <mark style="color:orange;">-</mark> as a synonym for the standard input (stdin) when used alone.
 
@@ -54,4 +54,6 @@ This level introduces an important concept in command-line interfaces: the handl
 
 
 \-- Othmane
+
+
 

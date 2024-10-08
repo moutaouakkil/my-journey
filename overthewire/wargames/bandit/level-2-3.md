@@ -49,7 +49,9 @@ Enter the password when prompted.
 
 #### Summary
 
-This level demonstrates the proper handling of filenames containing spaces in Unix-like systems. By using backslashes to escape spaces, we ensure the shell interprets the filename correctly. This skill is crucial in both system administration and security assessments, where non-standard filenames are common. It emphasizes the importance of understanding shell behavior and syntax for effective command-line operations.
+Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using backslashes. It's a common issue in real-world systems, so getting comfortable with this technique is valuable. Plus, it gives us a glimpse into how the shell interprets our commands, which is key for anyone working in IT or cybersecurity.
+
+
 
 
 

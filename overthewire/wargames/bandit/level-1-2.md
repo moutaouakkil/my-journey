@@ -2,7 +2,7 @@
 
 ### Level Goal
 
-The password for the next level is stored in a file called <mark style="color:orange;">-</mark> located in the **home** directory.
+The password for the next level is stored in a file called <mark style="color:orange;">-</mark> located in the home directory.
 
 
 

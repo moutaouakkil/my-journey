@@ -7,6 +7,7 @@
       * [Level 0](overthewire/wargames/bandit/level-0.md)
       * [Level 0 → 1](overthewire/wargames/bandit/level-0-1.md)
       * [Level 1 → 2](overthewire/wargames/bandit/level-1-2.md)
+      * [Level 2 → 3](overthewire/wargames/bandit/level-2-3.md)
     * [Leviathan](overthewire/wargames/leviathan.md)
     * [Krypton](overthewire/wargames/krypton.md)
     * [Narnia](overthewire/wargames/narnia.md)

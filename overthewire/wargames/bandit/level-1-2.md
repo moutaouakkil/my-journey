@@ -49,7 +49,9 @@ Enter the password when prompted.
 
 #### Summary
 
-This level introduces an important concept in command-line interfaces: the handling of special filenames. The dash (<mark style="color:orange;">-</mark>) is often used to signify standard input/output in Unix-like systems, which can cause unexpected behavior with common commands. By using <mark style="color:orange;">./</mark> to specify the current directory, we ensure the filename is interpreted correctly. This scenario underscores the importance of understanding how different characters can affect command interpretation, a crucial skill in both system administration and security testing. It also reinforces the need for adaptability when faced with non-standard situations in file handling.
+This level highlights how special characters in filenames can trip up common commands. The dash (<mark style="color:orange;">-</mark>) isn't just a simple character - it's often used for <mark style="color:orange;">stdin/stdout</mark> in Unix systems. By using \`<mark style="color:orange;">./</mark>\`, we're telling the system to treat the dash as part of a filename, not a special instruction. It's a good reminder that in cybersecurity and system administration, we need to be aware of these quirks. They can be the difference between accessing a file and accidentally reading from stdin.
+
+
 
 
 

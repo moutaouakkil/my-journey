@@ -1,20 +1,20 @@
 # Level 2 → 3
 
-### Level Goal
+## Level Goal
 
 The password for the next level is stored in a file called <mark style="color:orange;">spaces in this filename</mark> located in the home directory.
 
 
 
-### Write-Up
+## Write-Up
 
-#### Objective
+### Objective
 
 Locate and access the contents of a file with spaces in its name, then use the retrieved password to progress to the next level.
 
 
 
-#### Solution
+### Solution
 
 1. Verify the file's presence in the home directory:
 
@@ -47,7 +47,7 @@ Enter the password when prompted.
 
 
 
-#### Summary
+### Summary
 
 Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using `backslashes`. It's a common issue in real-world systems, so getting comfortable with this technique is valuable. Plus, it gives us a glimpse into how the shell interprets our commands, which is key for anyone working in IT or cybersecurity.
 

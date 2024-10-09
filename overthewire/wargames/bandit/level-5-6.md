@@ -1,6 +1,6 @@
 # Level 5 → 6
 
-### Level Goal
+## Level Goal
 
 The password for the next level is stored in a file somewhere under the <mark style="color:orange;">inhere</mark> directory and has all of the following properties:
 
@@ -10,21 +10,23 @@ The password for the next level is stored in a file somewhere under the <mark st
 
 
 
-### Write-Up
+## Write-Up
 
-#### Objective
+### Objective
+
+
 
 ...
 
 
 
-#### Solution
+### Solution
 
 ...
 
 
 
-#### Summary
+### Summary
 
 ...
 

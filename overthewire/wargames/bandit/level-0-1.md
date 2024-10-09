@@ -1,20 +1,20 @@
 # Level 0 → 1
 
-### Level Goal
+## Level Goal
 
 The password for the next level is stored in a file called <mark style="color:orange;">readme</mark> located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 
 
-### Write-Up
+## Write-Up
 
-#### Objective
+### Objective
 
 Locate and retrieve the password stored in the <mark style="color:orange;">readme</mark> file within the home directory, then use it to access the next level.
 
 
 
-#### Solution
+### Solution
 
 1. List the content of the current directory:
 
@@ -46,7 +46,7 @@ When prompted, enter the password retrieved from the <mark style="color:orange;"
 
 
 
-#### Summary
+### Summary
 
 We practiced basic file system navigation and learned the importance of checking obvious places for information. It's a reminder that sometimes sensitive data, like passwords, can be found in plain sight. The game also emphasizes the value of command-line proficiency, particularly in using common utilities like `ls` and `cat`. These skills form the backbone of system exploration and information gathering, crucial in both attack and defense scenarios in cybersecurity.
 

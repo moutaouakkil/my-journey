@@ -49,7 +49,7 @@ Enter the password when prompted.
 
 ### Summary
 
-This level highlights how special characters in filenames can trip up common commands. The dash (<mark style="color:orange;">-</mark>) isn't just a simple character - it's often used for <mark style="color:orange;">stdin/stdout</mark> in Unix systems. By using `./`, we're telling the system to treat the dash as part of a filename, not a special instruction. It's a good reminder that in cybersecurity and system administration, we need to be aware of these quirks. They can be the difference between accessing a file and accidentally reading from stdin.
+This level highlights how special characters in filenames can trip up common commands. The dash (<mark style="color:orange;">-</mark>) isn't just a simple character - it's often used for <mark style="color:orange;">stdin/stdout</mark> in Unix systems. By using `./`, we're telling the system to treat the dash as part of a filename, not a special instruction.
 
 
 

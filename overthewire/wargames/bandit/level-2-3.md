@@ -49,7 +49,7 @@ Enter the password when prompted.
 
 ### Summary
 
-Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using `backslashes`. It's a common issue in real-world systems, so getting comfortable with this technique is valuable. Plus, it gives us a glimpse into how the shell interprets our commands, which is key for anyone working in IT or cybersecurity.
+Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using `backslashes`.
 
 
 

@@ -16,7 +16,7 @@ Develop and execute a method to efficiently identify a human-readable file among
 
 #### Solution
 
-1. Navigate to the inhere directory:
+1. Navigate to the <mark style="color:orange;">inhere</mark> directory:
 
 ```sh
 ls
@@ -56,6 +56,8 @@ The retrieved password: <mark style="color:orange;">4oQYVPkxZOOEOO5pTW81FB8j8lxX
 ```sh
 ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
+
+Enter the password when prompted.
 
 
 

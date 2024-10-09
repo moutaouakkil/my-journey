@@ -2,7 +2,7 @@
 
 ### Level Goal
 
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is <mark style="color:orange;">bandit.labs.overthewire.org</mark>, on port **2220**. The username is <mark style="color:orange;">bandit0</mark> and the password is <mark style="color:orange;">bandit0</mark>. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+The goal of this level is for you to log into the game using `SSH`. The host to which you need to connect is <mark style="color:orange;">bandit.labs.overthewire.org</mark>, on port <mark style="color:orange;">2220</mark>. The username is <mark style="color:orange;">bandit0</mark> and the password is <mark style="color:orange;">bandit0</mark>. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
 
 
@@ -33,10 +33,10 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 Let's break down the command:
 
-* <mark style="color:orange;">ssh</mark>: Initiates a secure shell connection
-* <mark style="color:orange;">bandit0</mark>: Specifies the username we're logging in with
-* <mark style="color:orange;">bandit.labs.overthewire.org</mark>: Specifies the username and host
-* <mark style="color:orange;">-p 2220</mark>: Indicates the port number to connect to (2220 instead of the default 22)
+* `ssh`: Initiates a secure shell connection
+* `bandit0`: Specifies the username we're logging in with
+* `bandit.labs.overthewire.org`: Specifies the username and host
+* `-p 2220`: Indicates the port number to connect to (2220 instead of the default 22)
 
 Upon execution you'll be prompted for the password, Enter <mark style="color:orange;">bandit0</mark> when asked.
 
@@ -44,7 +44,7 @@ Upon execution you'll be prompted for the password, Enter <mark style="color:ora
 
 #### Summary
 
-We got hands-on experience with SSH. which is a tool you'll use constantly in cybersecurity. We also learned about connecting to non-standard port - a common scenario in real-world systems. Plus, we practiced using provided credentials, which is crucial for any penetration testing or security assessment.
+We got hands-on experience with `SSH`. which is a tool you'll use constantly in cybersecurity. We also learned about connecting to non-standard port - a common scenario in real-world systems. Plus, we practiced using provided credentials, which is crucial for any penetration testing or security assessment.
 
 
 

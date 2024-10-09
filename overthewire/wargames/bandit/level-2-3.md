@@ -34,7 +34,7 @@ cat spaces\ in\ this\ filename
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
 
-Note: We use backslashes to escape the spaces in the filename.
+Note: We use `backslashes` to escape the spaces in the filename.
 
 3. The revealed password is: <mark style="color:orange;">MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</mark>
 4. Access the next level using the obtained password:
@@ -49,9 +49,7 @@ Enter the password when prompted.
 
 #### Summary
 
-Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using backslashes. It's a common issue in real-world systems, so getting comfortable with this technique is valuable. Plus, it gives us a glimpse into how the shell interprets our commands, which is key for anyone working in IT or cybersecurity.
-
-
+Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using `backslashes`. It's a common issue in real-world systems, so getting comfortable with this technique is valuable. Plus, it gives us a glimpse into how the shell interprets our commands, which is key for anyone working in IT or cybersecurity.
 
 
 

@@ -57,7 +57,7 @@ Enter the password when prompted.
 
 #### Summary
 
-This level teaches us about hidden files in Unix systems. We had to find a secret password in a hidden file inside the <mark style="color:orange;">inhere</mark> directory. The trick was using <mark style="color:orange;">\`ls -a\`</mark> to see all files, including the hidden ones that start with a dot. It's a good reminder that not everything is visible at first glance, especially in cybersecurity. Always dig a little deeper and use the right tools to uncover what's really there.
+This level teaches us about hidden files in Unix systems. We had to find a secret password in a hidden file inside the <mark style="color:orange;">inhere</mark> directory. The trick was using `ls -a` to see all files, including the hidden ones that start with a dot. It's a good reminder that not everything is visible at first glance, especially in cybersecurity. Always dig a little deeper and use the right tools to uncover what's really there.
 
 
 

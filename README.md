@@ -29,9 +29,9 @@ As I progress through various courses, tackle CTF challenges, and experiment wit
 
 ### A Work In Progress:
 
-I'm at the beginning of this journey, and I have no illusions about becoming an overnight expert. This site will grow and evolve as I do. Some of the early content might be basic, and that's okay. We all start somewhere, right?
+I'm at the beginning of this journey, and I have no illusions about becoming an overnight expert. This site will grow and evolve as I do.
 
-If you're a fellow learner, I hope you find something useful here. If you're an experienced pro stumbling upon this site, feel free to email me some wisdom – I'm always eager to learn!
+If you're a fellow learner, I hope you find something useful here. If you're an experienced pro, feel free to email me some wisdom – I'm always eager to learn!
 
 So, buckle up and join me on this wild ride through the world of ethical hacking. It's going to be a challenge, but hey, that's half the fun!
 

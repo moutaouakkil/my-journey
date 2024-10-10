@@ -8,14 +8,6 @@ The password for the next level is stored in a file called <mark style="color:or
 
 ## Write-Up
 
-### Objective
-
-Locate and access the contents of a file with spaces in its name, then use the retrieved password to progress to the next level.
-
-
-
-### Solution
-
 1. Verify the file's presence in the home directory:
 
 ```sh
@@ -47,7 +39,7 @@ Enter the password when prompted.
 
 
 
-### Summary
+## Summary
 
 Working with files that have spaces in their names can be tricky on the command line. This level teaches us how to handle that using `backslashes`.
 

@@ -8,14 +8,6 @@ The password for the next level is stored in a hidden file in the <mark style="c
 
 ## Write-Up
 
-### Objective
-
-Locate the <mark style="color:orange;">inhere</mark> directory, find <mark style="color:orange;">a hidden file</mark> within it, and access its contents to retrieve the password for the next level.
-
-
-
-### Solution
-
 1. List the contents of the current directory to verify the existence of <mark style="color:orange;">inhere</mark> directory:
 
 ```sh
@@ -55,7 +47,7 @@ Enter the password when prompted.
 
 
 
-### Summary
+## Summary
 
 This level teaches us about hidden files in Unix systems. We had to find a secret password in a hidden file inside the <mark style="color:orange;">inhere</mark> directory. The trick was using `ls -a` to see all files, including the hidden ones that start with a dot.
 

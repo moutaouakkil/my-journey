@@ -8,23 +8,6 @@ The goal of this level is for you to log into the game using `SSH`. The host to 
 
 ## Write-Up
 
-This write-up covers the intial level of the OverTheWire Bandit wargame. Level 0 serves as an introduction to SSH connectivity, a fundamental skill in cybersecurity.
-
-
-
-### Objective
-
-Connect to the game server using SSH with the following parameters:
-
-* Host: <mark style="color:orange;">bandit.labs.overthewire.org</mark>
-* Port: <mark style="color:orange;">2220</mark>
-* Username: <mark style="color:orange;">bandit0</mark>
-* Password: <mark style="color:orange;">bandit0</mark>
-
-
-
-### Solution
-
 To complete this level, we use the SSH command with specific flags to connect to the non-standard port. Here's the command:
 
 ```sh
@@ -42,7 +25,7 @@ Upon execution you'll be prompted for the password, Enter <mark style="color:ora
 
 
 
-### Summary
+## Summary
 
 We got hands-on experience with `SSH`. which is a tool you'll use constantly in cybersecurity. We also learned about connecting to non-standard port - a common scenario in real-world systems.
 

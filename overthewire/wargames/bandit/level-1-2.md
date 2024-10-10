@@ -8,14 +8,6 @@ The password for the next level is stored in a file called <mark style="color:or
 
 ## Write-Up
 
-### Objective
-
-Retrieve the password stored in the file named <mark style="color:orange;">-</mark> within the home directory, then use it to access the next level.
-
-
-
-### Solution
-
 1. Verify the file's presence in the home directory:
 
 ```sh
@@ -47,7 +39,7 @@ Enter the password when prompted.
 
 
 
-### Summary
+## Summary
 
 This level highlights how special characters in filenames can trip up common commands. The dash (<mark style="color:orange;">-</mark>) isn't just a simple character - it's often used for <mark style="color:orange;">stdin/stdout</mark> in Unix systems. By using `./`, we're telling the system to treat the dash as part of a filename, not a special instruction.
 

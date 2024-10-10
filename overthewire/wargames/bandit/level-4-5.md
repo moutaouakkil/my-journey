@@ -8,14 +8,6 @@ The password for the next level is stored in the only human-readable file in the
 
 ## Write-Up
 
-### Objective
-
-Develop and execute a method to efficiently identify a human-readable file among multiple files, then extract its content to retrieve the password.
-
-
-
-### Solution
-
 1. Navigate to the <mark style="color:orange;">inhere</mark> directory:
 
 ```sh
@@ -61,7 +53,7 @@ Enter the password when prompted.
 
 
 
-### Summary
+## Summary
 
 This level was pretty cool. It showed us how useful a bit of scripting can be when you're dealing with a bunch of files. Instead of opening each file one by one, we used a simple loop to do the work for us. It's the kind of trick that could save a ton of time in a real-world scenario, especially when file extensions are missing or misleading.
 

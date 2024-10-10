@@ -8,14 +8,6 @@ The password for the next level is stored in a file called <mark style="color:or
 
 ## Write-Up
 
-### Objective
-
-Locate and retrieve the password stored in the <mark style="color:orange;">readme</mark> file within the home directory, then use it to access the next level.
-
-
-
-### Solution
-
 1. List the content of the current directory:
 
 ```sh
@@ -46,7 +38,7 @@ When prompted, enter the password retrieved from the <mark style="color:orange;"
 
 
 
-### Summary
+## Summary
 
 We practiced basic file system navigation and learned the importance of checking obvious places for information.
 

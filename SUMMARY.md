@@ -10,6 +10,7 @@
     * [Level 3 → 4](overthewire-wargames/bandit/level-3-4.md)
     * [Level 4 → 5](overthewire-wargames/bandit/level-4-5.md)
     * [Level 5 → 6](overthewire-wargames/bandit/level-5-6.md)
+    * [Level 6 → 7](overthewire-wargames/bandit/level-6-7.md)
   * [Natas](overthewire-wargames/natas.md)
   * [Leviathan](overthewire-wargames/leviathan.md)
   * [Krypton](overthewire-wargames/krypton.md)

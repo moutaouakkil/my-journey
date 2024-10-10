@@ -18,7 +18,7 @@ The password for the next level is stored in a file somewhere under the <mark st
 find inhere -type f -readable -size 1033c ! -executable
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="find inhere -type f -readable -size 1033c ! -executable"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="find inhere -type f -readable -size 1033c ! -executable"><figcaption></figcaption></figure>
 
 * `find inhere`: Start searching in the 'inhere' directory
 * `-type f`: Look for regular files
@@ -34,7 +34,7 @@ This command reveals <mark style="color:orange;">.file2</mark> as the only file 
 cat $(find inhere -type f -readable -size 1033c ! -executable)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="cat $(find inhere -type f -readable -size 1033c ! -executable)"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="cat $(find inhere -type f -readable -size 1033c ! -executable)"><figcaption></figcaption></figure>
 
 * `cat`: Command to display the contents of a file
 * `$()`: Command substitution. It allows the output of a command to be used as an argument for another command
@@ -45,21 +45,21 @@ Or
 cat inhere/maybehere07/.file2
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="cat inhere/maybehere07/.file2"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="cat inhere/maybehere07/.file2"><figcaption></figcaption></figure>
 
 This outputs the password: <mark style="color:orange;">HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</mark>
 
 3. Access the next level:
 
 ```sh
-shh bandit6@bandit.labs.overthewire.org -p 2220
+ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
 Enter the password when prompted.
 
 
 
-## Summary
+## Lessons Learned
 
 This challenge showed us how versatile the `find` command can be. It's not just for finding files by name - you can search based on size, permissions, and other attributes all at once. Pretty handy for sifting through a bunch of files quickly.
 

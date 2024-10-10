@@ -2,7 +2,7 @@
 
 ### My hacking Journey: An Introduction
 
-Hey there! Welcome to my little corner of the internet where I document my adventures in the world of hacking. I'm [**Othmane Moutaouakkil**](./#contact-me), a Computer and Software Engineering student with a growing passion for cybersecurity and ethical hacking. This site is essentially my digital journal, a place where I can share my progress, struggles, and victories as I dive into this fascinating field.
+Hey there! Welcome to my corner of the internet where I document my adventures in the world of hacking. I'm [**Othmane Moutaouakkil**](./#contact-me), a Computer and Software Engineering student with a growing passion for cybersecurity and ethical hacking. This site is essentially my digital journal, a place where I can share my progress, struggles, and victories as I dive into this fascinating field.
 
 
 
@@ -10,9 +10,9 @@ Hey there! Welcome to my little corner of the internet where I document my adven
 
 Good question! There are a few reasons:
 
-1. **Knowledge Reinforcement:** You know how they say the best way to learn something is to teach it? Well, I'm taking that to heart. By writing about what I'm learning, I'm forcing myself to really understand the concepts. It's like having a conversation with my future self.
-2. **Personal Reference:** This site serves as my own personal cheat sheet. Whenever I need to recall a specific technique or tool, I know exactly where to look.
-3. **Proof of Dedication:** I'll be honest, part of this is to show potential employers that I'm serious about this stuff. In a field that's constantly evolving, showing initiative and continuous learning is crucial.
+* Knowledge Reinforcement – You know how they say the best way to learn something is to teach it? Well, I'm taking that to heart. By writing about what I'm learning, I'm forcing myself to really understand the concepts. It's like having a conversation with my future self.
+* Personal Reference – This site serves as my own personal cheat sheet. Whenever I need to recall a specific technique or tool, I know exactly where to look.
+* Proof of Dedication – Part of this is to show potential employers that I'm serious about this stuff. In a field that's constantly evolving, showing initiative and continuous learning is crucial.
 
 
 

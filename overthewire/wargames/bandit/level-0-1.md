@@ -22,7 +22,7 @@ Locate and retrieve the password stored in the <mark style="color:orange;">readm
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">readme</mark> file.
 
@@ -32,7 +32,7 @@ This confirms the presence of the <mark style="color:orange;">readme</mark> file
 cat readme
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="cat readme"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="cat readme"><figcaption></figcaption></figure>
 
 This reveals the password: <mark style="color:orange;">ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If</mark>
 

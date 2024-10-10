@@ -22,7 +22,7 @@ Locate the <mark style="color:orange;">inhere</mark> directory, find <mark style
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="ls"><figcaption></figcaption></figure>
 
 2. Navigate to the <mark style="color:orange;">inhere</mark> directory and list all files, including hidden ones:
 
@@ -31,7 +31,7 @@ cd inhere
 ls -a
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="cd inhere &#x26; ls -a"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="cd inhere &#x26; ls -a"><figcaption></figcaption></figure>
 
 This reveals the presence of a hidden file named <mark style="color:orange;">...Hiding-From-You</mark>.
 
@@ -41,7 +41,7 @@ This reveals the presence of a hidden file named <mark style="color:orange;">...
 cat ...Hiding-From-You
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="cat ...Hiding-From-You"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="cat ...Hiding-From-You"><figcaption></figcaption></figure>
 
 This command reveals the password: <mark style="color:orange;">2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</mark>
 

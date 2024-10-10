@@ -22,7 +22,7 @@ Retrieve the password stored in the file named <mark style="color:orange;">-</ma
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the existence of a file named <mark style="color:orange;">-</mark>.
 

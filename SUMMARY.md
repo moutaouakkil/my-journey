@@ -27,6 +27,7 @@
     * [FormulaOne](write-ups/overthewire-wargames/formulaone.md)
   * [TCM Security](write-ups/tcm-security/README.md)
     * [Practical Ethical Hacking](write-ups/tcm-security/practical-ethical-hacking.md)
+    * [Open-Source Intelligence (OSINT)](write-ups/tcm-security/open-source-intelligence-osint.md)
   * [HackTheBox](write-ups/hackthebox/README.md)
     * [HTB Linux Boxes](write-ups/hackthebox/htb-linux-boxes.md)
     * [HTB Windows Boxes](write-ups/hackthebox/htb-windows-boxes.md)

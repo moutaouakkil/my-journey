@@ -28,7 +28,7 @@ cat data.txt
 
 This file contains a large amount of text, making manual search impractical.
 
-2. Search for the line containing 'millionth' in data.txt:
+3. Search for the line containing 'millionth' in data.txt:
 
 ```sh
 grep millionth data.txt
@@ -42,7 +42,7 @@ grep millionth data.txt
 
 The password retrieved: <mark style="color:orange;">dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</mark>
 
-3. Access the next level:
+4. Access the next level:
 
 ```sh
 ssh bandit8@bandit.labs.overthewire.org -p 2220

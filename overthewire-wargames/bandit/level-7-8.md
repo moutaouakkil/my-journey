@@ -54,7 +54,7 @@ Enter the password when prompted.
 
 ## Lessons Learned
 
-This level taught us how to find a specific information in a large file quickly. Using `grep` to search for a keyword is much faster than scrolling through the entire file manually. It's a simple but effective technique that could save a lot of time when dealing with big datasets or logs.
+This level taught us how to find specific information in a large file quickly. Using `grep` to search for a keyword is much faster than scrolling through the entire file manually. It's a simple but effective technique that could save a lot of time when dealing with big datasets or logs.
 
 
 

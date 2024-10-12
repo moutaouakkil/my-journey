@@ -38,3 +38,4 @@
   * [VulnHub](write-ups/vulnhub.md)
   * [Pentester Academy](write-ups/pentester-academy.md)
 * [Research](research.md)
+* [Resume](resume.md)

@@ -24,7 +24,7 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 * `-size 33c`: Look for files exactly 33 bytes in size
 * `2>/dev/null`: Redirect error messages to /dev/null to avoid cluttering the output
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="find / -user bandit7 -group bandit6 -size 33c 2>/dev/null"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="find / -user bandit7 -group bandit6 -size 33c 2>/dev/null"><figcaption></figcaption></figure>
 
 This command reveals <mark style="color:orange;">/var/lib/dpkg/info/bandit7.password</mark> as the target file.
 
@@ -34,7 +34,7 @@ This command reveals <mark style="color:orange;">/var/lib/dpkg/info/bandit7.pass
 cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)
 ```
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt="cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)"><figcaption></figcaption></figure>
 
 Or
 
@@ -42,7 +42,7 @@ Or
 cat /var/lib/dpkg/info/bandit7.password
 ```
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="cat /var/lib/dpkg/info/bandit7.password"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt="cat /var/lib/dpkg/info/bandit7.password"><figcaption></figcaption></figure>
 
 The password retrieved: <mark style="color:orange;">morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</mark>
 

@@ -24,7 +24,7 @@ This confirms the existence of a file named <mark style="color:orange;">spaces i
 cat spaces\ in\ this\ filename
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
 
 Note: We use `backslashes` to escape the spaces in the filename.
 

@@ -37,7 +37,7 @@ grep millionth data.txt
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="grep millionth data.txt"><figcaption></figcaption></figure>
 
 * `grep`: Command for searching text using patterns
-* `millionth`: The pattern we're searching for
+* `millionth`: The pattern I'm searching for
 * `data.txt`: The file we're searching in
 
 The password retrieved: <mark style="color:orange;">dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</mark>

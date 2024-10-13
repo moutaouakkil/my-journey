@@ -26,7 +26,7 @@ cat spaces\ in\ this\ filename
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
 
-Note: To handle spaces in filenames, I can either use `backslashes` to escape each space or enclose the entire filename in quotes `""`.
+Note: To handle spaces in filenames, you can either use `backslashes` to escape each space or enclose the entire filename in quotes `""`.
 
 ```sh
 cat "spaces in this filename"

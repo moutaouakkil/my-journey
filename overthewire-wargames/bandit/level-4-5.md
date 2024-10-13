@@ -29,7 +29,7 @@ This reveals <mark style="color:orange;">./-file07</mark> as the only text/plain
 
 * `for i in $(ls)`: Loops through each file in the current directory
 * `do`: Starts the loop body
-* `file -i`: Runs the `file` command to each file, using `./` to handle filenames starting with '-'
+* `file -i`: Runs the `file` command to each file, using `./` to handle filenames starting with `-`
 * `done`: Ends the loop
 * Overall: Identifies the file type of every file in the directory.
 

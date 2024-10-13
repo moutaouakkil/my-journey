@@ -8,20 +8,18 @@ The goal of this level is for you to log into the game using `SSH`. The host to 
 
 ## Write-Up
 
-To complete this level, we use the SSH command with specific flags to connect to the non-standard port. Here's the command:
+To complete this level, I used the SSH command with specific flags to connect to the non-standard port. Here's the command:
 
 ```sh
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-
-Let's break down the command:
 
 * `ssh`: Initiates a secure shell connection
 * `bandit0`: Specifies the username we're logging in with
 * `bandit.labs.overthewire.org`: Specifies the username and host
 * `-p 2220`: Indicates the port number to connect to (2220 instead of the default 22)
 
-Upon execution you'll be prompted for the password, Enter <mark style="color:orange;">bandit0</mark> when asked.
+Upon execution, I was prompted for the password and entered <mark style="color:orange;">bandit0</mark>.
 
 
 

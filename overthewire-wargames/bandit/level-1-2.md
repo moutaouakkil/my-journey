@@ -26,7 +26,7 @@ cat ./-
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt="cat ./-"><figcaption></figcaption></figure>
 
-Note: We use `./` to prefix the filename because `cat` interprets <mark style="color:orange;">-</mark> as a synonym for the standard input (stdin) when used alone.
+Note: Use `./` to prefix the filename because `cat` interprets <mark style="color:orange;">-</mark> as a synonym for the standard input (stdin) when used alone.
 
 3. The revealed password is: <mark style="color:orange;">263JGJPfgU6LtdEvgfWU1XP5yac29mFx</mark>
 4. Access the next level using the obtained password:

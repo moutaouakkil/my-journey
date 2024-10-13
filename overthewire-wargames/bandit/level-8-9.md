@@ -29,16 +29,33 @@ cat data.txt
 3. Search for the line of text that occurs only once:
 
 ```sh
-// Some code
+sort data.txt | uniq -u
 ```
 
+<figure><img src="../../.gitbook/assets/image (13).png" alt="sort data.txt | uniq -u"><figcaption></figcaption></figure>
 
+* `sort data.txt`: Sorts the lines alphabetically
+* `|`: Pipes the output to the next command
+* `uniq -u`: Filters for unique lines
+
+The password retrieved: <mark style="color:orange;">4CKMh1JI91bUIZZPXDqGanal4xvAg0JM</mark>
+
+4. Access the next level:
+
+```sh
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+```
+
+Enter the password when prompted.
 
 
 
 ## Lessons Learned
 
-...
+* The `sort` command is useful for organizing data for further processing
+* `uniq -u` filters for lines that appear only once in the input
+* `Piping commands` together can create powerful data processing workflows
+* Sometimes finding unique information requires multiple steps of data manipulation
 
 
 

@@ -16,6 +16,7 @@
       * [Level 8 → 9](overthewire-wargames/bandit/level-8-9.md)
       * [Level 9 → 10](write-ups/overthewire-wargames/bandit/level-9-10.md)
       * [Level 10 → 11](write-ups/overthewire-wargames/bandit/level-10-11.md)
+      * [Level 11 → 12](write-ups/overthewire-wargames/bandit/level-11-12.md)
     * [Natas](write-ups/overthewire-wargames/natas.md)
     * [Leviathan](write-ups/overthewire-wargames/leviathan.md)
     * [Krypton](write-ups/overthewire-wargames/krypton.md)

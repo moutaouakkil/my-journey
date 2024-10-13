@@ -15,7 +15,7 @@ ls
 cd inhere
 ```
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
 
 2. Identify the human-readable file:
 

@@ -14,7 +14,7 @@ The password for the next level is stored in a file called <mark style="color:or
 ls
 ```
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the existence of a file named <mark style="color:orange;">spaces in this filename</mark>.
 
@@ -24,7 +24,7 @@ This confirms the existence of a file named <mark style="color:orange;">spaces i
 cat spaces\ in\ this\ filename
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="cat spaces\ in\ this\ filename"><figcaption></figcaption></figure>
 
 Note: To handle spaces in filenames, you can either use `backslashes` to escape each space or enclose the entire filename in quotes `""`.
 
@@ -32,7 +32,7 @@ Note: To handle spaces in filenames, you can either use `backslashes` to escape 
 cat "spaces in this filename"
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt="cat &#x22;spaces in this filename&#x22;"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="cat &#x22;spaces in this filename&#x22;"><figcaption></figcaption></figure>
 
 3. The revealed password is: <mark style="color:orange;">MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</mark>
 4. Access the next level using the obtained password:

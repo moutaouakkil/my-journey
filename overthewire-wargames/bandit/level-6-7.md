@@ -24,17 +24,17 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 * `-size 33c`: Look for files exactly 33 bytes in size
 * `2>/dev/null`: Redirect error messages to /dev/null to avoid cluttering the output
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="find / -user bandit7 -group bandit6 -size 33c 2>/dev/null"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="find / -user bandit7 -group bandit6 -size 33c 2>/dev/null"><figcaption></figcaption></figure>
 
 This command reveals <mark style="color:orange;">/var/lib/dpkg/info/bandit7.password</mark> as the target file.
 
-2. Display the file contents:
+2. Display the file content:
 
 ```sh
 cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="cat $(find / -user bandit7 -group bandit6 -size 33c 2>/dev/null)"><figcaption></figcaption></figure>
 
 Or
 
@@ -42,7 +42,7 @@ Or
 cat /var/lib/dpkg/info/bandit7.password
 ```
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt="cat /var/lib/dpkg/info/bandit7.password"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="cat /var/lib/dpkg/info/bandit7.password"><figcaption></figcaption></figure>
 
 The password retrieved: <mark style="color:orange;">morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</mark>
 
@@ -58,7 +58,10 @@ Enter the password when prompted.
 
 ## Lessons Learned
 
-This level taught us how to combine multiple search criteria in a single command. The `2>/dev/null` trick was handy for filtering out permission errors, keeping the output clean and relevant.
+* The `find` command can search based on multiple criteria simultaneously
+* Redirecting errors to `/dev/null` helps clean up output
+* System files can be located in unexpected places
+* Precise file properties can be used to locate specific files
 
 
 

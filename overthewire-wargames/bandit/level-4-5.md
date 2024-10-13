@@ -15,7 +15,7 @@ ls
 cd inhere
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
 
 2. Identify the human-readable file:
 
@@ -23,7 +23,7 @@ cd inhere
 for i in $(ls); do file -i "./$i"; done;
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="for i in $(ls); do file -i &#x22;./$i&#x22;; done;"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="for i in $(ls); do file -i &#x22;./$i&#x22;; done;"><figcaption></figcaption></figure>
 
 This reveals <mark style="color:orange;">./-file07</mark> as the only text/plain file.
 
@@ -33,13 +33,13 @@ This reveals <mark style="color:orange;">./-file07</mark> as the only text/plain
 * `done`: Ends the loop
 * Overall: Identifies the file type of every file in the directory.
 
-3. Display the contents of the identified file:
+3. Display the content of the identified file:
 
 ```sh
 cat ./-file07
 ```
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="cat ./-file07"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="cat ./-file07"><figcaption></figcaption></figure>
 
 The retrieved password: <mark style="color:orange;">4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</mark>
 
@@ -55,7 +55,9 @@ Enter the password when prompted.
 
 ## Lessons Learned
 
-This level was pretty cool. It showed us how useful a bit of scripting can be when you're dealing with a bunch of files. Instead of opening each file one by one, we used a simple loop to do the work for us. It's the kind of trick that could save a ton of time in a real-world scenario, especially when file extensions are missing or misleading.
+* Scripting with loops can efficiently process multiple files
+* The `file` command helps identify file types regardless of extension
+* Using `./` is crucial when dealing with files that start with `-`
 
 
 

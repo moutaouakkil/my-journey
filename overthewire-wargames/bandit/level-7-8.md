@@ -14,17 +14,17 @@ The password for the next level is stored in the file <mark style="color:orange;
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">data.txt</mark> file.
 
-2. Display the contents of data.txt:
+2. Display the content of data.txt:
 
 ```sh
 cat data.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="cat data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="cat data.txt"><figcaption></figcaption></figure>
 
 This file contains a large amount of text, making manual search impractical.
 
@@ -34,7 +34,7 @@ This file contains a large amount of text, making manual search impractical.
 grep millionth data.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="grep millionth data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="grep millionth data.txt"><figcaption></figcaption></figure>
 
 * `grep`: Command for searching text using patterns
 * `millionth`: The pattern we're searching for
@@ -54,7 +54,9 @@ Enter the password when prompted.
 
 ## Lessons Learned
 
-This level taught us how to find specific information in a large file quickly. Using `grep` to search for a keyword is much faster than scrolling through the entire file manually. It's a simple but effective technique that could save a lot of time when dealing with big datasets or logs.
+* Viewing file contents with `cat` helps understand the data structure
+* `grep` is efficient for finding specific lines in large files
+* The password isn't always hidden - sometimes it's just mixed with other data
 
 
 

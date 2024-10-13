@@ -14,17 +14,17 @@ The password for the next level is stored in a file called <mark style="color:or
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">readme</mark> file.
 
-2. Display the contents of the <mark style="color:orange;">readme</mark> file:
+2. Display the content of the <mark style="color:orange;">readme</mark> file:
 
 ```sh
 cat readme
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="cat readme"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="cat readme"><figcaption></figcaption></figure>
 
 This reveals the password: <mark style="color:orange;">ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If</mark>
 
@@ -40,7 +40,11 @@ When prompted, enter the password retrieved from the <mark style="color:orange;"
 
 ## Lessons Learned
 
-We practiced basic file system navigation and learned the importance of checking obvious places for information.
+* Basic file system navigation is crucial for finding information
+* Important data may be stored in plainly named files like 'readme'
+* The `ls` command is essential for listing directory contents
+* The `cat` command is useful for quickly viewing file contents
+* Always check obvious locations for information before looking elsewhere
 
 
 

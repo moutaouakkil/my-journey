@@ -28,7 +28,7 @@ cat data.txt
 
 This revealed a string of text with rotated letters.
 
-3. To decode the ROT13 cipher, the `tr` command was used:
+3. To decode the ROT13 cipher, the `tr` (translate) command was used:
 
 ```sh
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'

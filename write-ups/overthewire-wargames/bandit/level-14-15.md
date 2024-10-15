@@ -15,7 +15,7 @@ The password for the next level can be retrieved by submitting the password of t
 echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
 ```
 
-* `echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS"`: Outputs the current level's password
+* `echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS"`: Outputs the bandit14 password
 * `|`: Pipes the output to the next command
 * `nc localhost 30000`: Connects to localhost on port 30000 and sends the piped input
 

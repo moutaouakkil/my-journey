@@ -14,7 +14,7 @@ The password for the next level is stored in <mark style="color:orange;">/etc/ba
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="ls"><figcaption></figcaption></figure>
 
 2. Display the content of the <mark style="color:orange;">sshkey.private</mark> file:
 
@@ -22,7 +22,7 @@ ls
 cat sshkey.private
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
 
 This reveals <mark style="color:orange;">sshkey.private</mark> contains an RSA private key.
 
@@ -36,11 +36,11 @@ ssh -i sshkey.private -p 2220 bandit14@localhost
 * `-p 2220`: Specifies the port for the OverTheWire game server
 * `bandit14@localhost`: Connects to user bandit14 on the same machine
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="ssh -i sshkey.private -p 2220 bandit14@localhost"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="ssh -i sshkey.private -p 2220 bandit14@localhost"><figcaption></figcaption></figure>
 
 Note: Are you sure you want to continue connecting (yes/no/\[fingerprint])? Yes
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="bandit14 accessed"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="bandit14 accessed"><figcaption></figcaption></figure>
 
 <mark style="color:orange;">bandit14</mark> accessed.
 

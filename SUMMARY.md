@@ -39,7 +39,7 @@
       * [HTB Linux Boxes](write-ups/ctf/htb/htb-linux-boxes.md)
       * [HTB Windows Boxes](write-ups/ctf/htb/htb-windows-boxes.md)
     * [THM](write-ups/ctf/thm.md)
-    * [Hacker101 CTF](write-ups/ctf/hacker101-ctf.md)
+    * [Hacker101](write-ups/ctf/hacker101.md)
   * [TCM Security](write-ups/tcm-security/README.md)
     * [Practical Ethical Hacking](write-ups/tcm-security/practical-ethical-hacking/README.md)
       * [Networking Refresher](write-ups/tcm-security/practical-ethical-hacking/networking-refresher.md)

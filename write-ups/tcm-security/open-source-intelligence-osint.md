@@ -1,3 +1,2 @@
 # Open-Source Intelligence (OSINT)
 
-Soon...

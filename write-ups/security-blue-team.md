@@ -1,2 +1,0 @@
-# Security Blue Team
-

@@ -70,5 +70,6 @@
     * [VulnHub](write-ups/vulnerable-vms/vulnhub.md)
     * [Metasploitable](write-ups/vulnerable-vms/metasploitable.md)
   * [Portswigger](write-ups/portswigger.md)
+  * [Security Blue Team](write-ups/security-blue-team.md)
 * [Research](research.md)
 * [Resume](resume.md)

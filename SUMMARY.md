@@ -69,7 +69,6 @@
   * [Vulnerable VMs](write-ups/vulnerable-vms/README.md)
     * [VulnHub](write-ups/vulnerable-vms/vulnhub.md)
     * [Metasploitable](write-ups/vulnerable-vms/metasploitable.md)
-  * [Pentester Academy](write-ups/pentester-academy.md)
   * [Portswigger](write-ups/portswigger.md)
 * [Research](research.md)
 * [Resume](resume.md)

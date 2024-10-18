@@ -19,7 +19,7 @@ echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
 * `|`: Pipes the output to the next command
 * `nc localhost 30000`: Connects to localhost on port 30000 and sends the piped input
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt="echo &#x22;MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS&#x22; | nc localhost 30000"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt="echo &#x22;MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS&#x22; | nc localhost 30000"><figcaption></figcaption></figure>
 
 The server responds with the password for the next level: <mark style="color:orange;">8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo</mark>
 

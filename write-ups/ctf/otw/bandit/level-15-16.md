@@ -17,7 +17,7 @@ The password for the next level can be retrieved by submitting the password of t
 openssl s_client -connect localhost:30001
 ```
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt="openssl s_client -connect localhost:30001"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (25).png" alt="openssl s_client -connect localhost:30001"><figcaption></figcaption></figure>
 
 3. After the SSL handshake is completed, enter the bandit15 password:
 
@@ -25,7 +25,7 @@ openssl s_client -connect localhost:30001
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt="8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (27).png" alt="8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo"><figcaption></figcaption></figure>
 
 The server responded with the password for the next level: <mark style="color:orange;">kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx</mark>
 

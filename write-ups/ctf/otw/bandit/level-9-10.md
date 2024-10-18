@@ -14,7 +14,7 @@ The password for the next level is stored in the file <mark style="color:orange;
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">data.txt</mark> file.
 
@@ -24,7 +24,7 @@ This confirms the presence of the <mark style="color:orange;">data.txt</mark> fi
 cat data.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt="cat data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt="cat data.txt"><figcaption></figcaption></figure>
 
 3. To find human-readable strings proceeded by `=` characters, the `string` command was used in combination with `grep`:
 
@@ -32,7 +32,7 @@ cat data.txt
 strings data.txt | grep "="
 ```
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt="strings data.txt | grep &#x22;=&#x22;"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (18).png" alt="strings data.txt | grep &#x22;=&#x22;"><figcaption></figcaption></figure>
 
 * `strings data.txt`: Extracts printable strings from the file
 * `|`: Pipes the output to the next command

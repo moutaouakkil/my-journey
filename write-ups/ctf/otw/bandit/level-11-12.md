@@ -14,7 +14,7 @@ The password for the next level is stored in the file <mark style="color:orange;
 ls
 ```
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">data.txt</mark> file.
 
@@ -24,7 +24,7 @@ This confirms the presence of the <mark style="color:orange;">data.txt</mark> fi
 cat data.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt="cat data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (20).png" alt="cat data.txt"><figcaption></figcaption></figure>
 
 This revealed a string of text with rotated letters.
 
@@ -34,7 +34,7 @@ This revealed a string of text with rotated letters.
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt="cat data.txt | tr &#x27;A-Za-z&#x27; &#x27;N-ZA-Mn-za-m&#x27;"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (21).png" alt="cat data.txt | tr &#x27;A-Za-z&#x27; &#x27;N-ZA-Mn-za-m&#x27;"><figcaption></figcaption></figure>
 
 * `cat data.txt`: Outputs the content of the file
 * `|`: Pipes the output to the next command

@@ -21,7 +21,7 @@ nmap -sV localhost -p 31000-32000
 * `localhost`: The target (the working machine)
 * `-p 31000-32000`: Specifies the port range to scan
 
-<figure><img src="../../../.gitbook/assets/Untitled (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
 
 The SSL/TLS port <mark style="color:orange;">31790</mark> was identified from the `nmap` results.
 
@@ -37,7 +37,7 @@ echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | openssl s_client -connect localhost:31
 * `-connect localhost:31790`: Specifies the host and port to connect to
 * `-ign_eof`: Ignores EOF (end-of-file), keeping the connection open
 
-<figure><img src="../../../.gitbook/assets/Untitled.png" alt="echo &#x22;kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx&#x22; | openssl s_client -connect localhost:31790 -ign_eof"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled.png" alt="echo &#x22;kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx&#x22; | openssl s_client -connect localhost:31790 -ign_eof"><figcaption></figcaption></figure>
 
 This outputs the <mark style="color:orange;">RSA Private Key</mark>.
 
@@ -77,7 +77,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 * `>`: Redirects the output to a file
 * `~/Desktop/sshkey_private_b17`: The file path and name to save the key
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
 
 4. Change the permissions of the key file for security:
 
@@ -88,7 +88,7 @@ chmod 600 ~/Desktop/sshkey_private_b17
 * `chmod`: Changes the permissions of the file
 * `600`: Sets read and write permissions for the owner only
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 5. Use the private key to access the next level:
 

@@ -15,7 +15,7 @@ ls
 cd inhere
 ```
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt="ls &#x26; cd inhere"><figcaption></figcaption></figure>
 
 2. Identify the human-readable file:
 
@@ -23,7 +23,7 @@ cd inhere
 for i in $(ls); do file -i "./$i"; done;
 ```
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="for i in $(ls); do file -i &#x22;./$i&#x22;; done;"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt="for i in $(ls); do file -i &#x22;./$i&#x22;; done;"><figcaption></figcaption></figure>
 
 This reveals <mark style="color:orange;">./-file07</mark> as the only text/plain file.
 
@@ -39,7 +39,7 @@ This reveals <mark style="color:orange;">./-file07</mark> as the only text/plain
 cat ./-file07
 ```
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="cat ./-file07"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt="cat ./-file07"><figcaption></figcaption></figure>
 
 The retrieved password: <mark style="color:orange;">4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</mark>
 

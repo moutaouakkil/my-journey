@@ -15,9 +15,47 @@
 
 ## IP Addresses
 
-IPv4 (Internet Protocol version 4) and IPv6 (Internet Protocol version 6) are core internet addressing protocols. IPv4 uses 32-bit addresses (e.g., 192.168.0.1), allowing about 4.3 billion unique addresses. With internet growth outpacing this limit, IPv6 was developed using 128-bit addresses (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334). This expansion provides an enormous address space of 3.4×10^38 possibilities.
+IPv4 and IPv6 - core internet addressing protocols, operating on layer 3 of OSI model.
 
-IPv6 offers improvements beyond just more addresses. It enhances security, simplifies network configuration, and supports more efficient routing. However, IPv4 and IPv6 aren't directly compatible, necessitating transition mechanisms.
+* IPv4: `192.168.0.1` - decimal notation
+  * 4 octets of 8 bits = 32 bits
+  * Total IPv4 addresses:
 
-The shift from IPv4 to IPv6 is ongoing and critical for sustaining internet growth. While IPv4 remains widely used, IPv6 adoption continues to increase globally, ensuring the internet's ability to accommodate billions more connected devices in the future.
+$$
+2^{32} = 4,294,967,296
+$$
+
+* IPv6: `2001:0db8:85a3:0000:0000:8a2e:0370:7334` - hexadecimal notation
+  * 8 groups of 16 bits = 128 bits
+  * Total IPv6 addresses:
+
+$$
+2^{128} ≈ 3.4 × 10^{38}
+$$
+
+**Key IPv6 improvements:**
+
+* Enhanced security
+* Simplified network configuration
+* More efficient routing
+
+**Transition challenges:**
+
+* IPv4 and IPv6 not directly compatible
+* Ongoing global shift from IPv4 to IPv6
+* Critical for sustaining internet growth and accommodating future devices
+
+
+
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Displays the network interface configuration and status:
+
+```sh
+ifconfig
+```
+
+
 

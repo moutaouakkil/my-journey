@@ -1,6 +1,6 @@
 # Networking Refresher
 
-## Introduction
+Introduction
 
 * IP Addresses
 * MAC Addresses
@@ -214,7 +214,7 @@ Bits Sheet:
 
 How to calculate the Subnet:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="How to calculate the Subnet"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt="How to calculate the Subnet"><figcaption></figcaption></figure>
 
 
 

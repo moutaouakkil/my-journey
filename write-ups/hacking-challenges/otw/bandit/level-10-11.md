@@ -14,7 +14,7 @@ The password for the next level is stored in the file <mark style="color:orange;
 ls
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">data.txt</mark> file.
 
@@ -24,7 +24,7 @@ This confirms the presence of the <mark style="color:orange;">data.txt</mark> fi
 cat data.txt
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="cat data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="cat data.txt"><figcaption></figcaption></figure>
 
 This revealed a string of base64 encoded data.
 
@@ -34,7 +34,7 @@ This revealed a string of base64 encoded data.
 base64 -d data.txt
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="base64 -d data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="base64 -d data.txt"><figcaption></figcaption></figure>
 
 * `base64`: The command used for encoding/decoding base64 data
 * `-d`: Flag specifying decode mode (as opposed to encode)

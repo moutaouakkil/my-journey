@@ -14,7 +14,7 @@ The password for the next level is stored in the file <mark style="color:orange;
 ls
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the presence of the <mark style="color:orange;">data.txt</mark> file.
 
@@ -24,7 +24,7 @@ This confirms the presence of the <mark style="color:orange;">data.txt</mark> fi
 cat data.txt
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="cat data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="cat data.txt"><figcaption></figcaption></figure>
 
 This file contains a large amount of text, making manual search impractical.
 
@@ -34,7 +34,7 @@ This file contains a large amount of text, making manual search impractical.
 grep millionth data.txt
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="grep millionth data.txt"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="grep millionth data.txt"><figcaption></figcaption></figure>
 
 * `grep`: Command for searching text using patterns
 * `millionth`: The pattern I'm searching for

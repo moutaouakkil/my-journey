@@ -84,7 +84,7 @@ MAC (Media Access Control) address - unique identifier assigned to network inter
 
 Lookup devices using the first 3 pairs: [https://www.macvendorlookup.com](https://www.macvendorlookup.com/)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="Check the Vendor details using the first 3 pairs: https://www.macvendorlookup.com"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="Check the Vendor details using the first 3 pairs: https://www.macvendorlookup.com"><figcaption></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ Capture Packet Data using Wireshark:
 wireshark&
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="wireshark&#x26;"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="wireshark&#x26;"><figcaption></figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ Protocols using both TCP and UDP:
 
 OSI (Open Systems Interconnection) model - conceptual framework standardizing communication system functions into seven distinct layers.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="The OSI model"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="The OSI model"><figcaption></figcaption></figure>
 
 key aspects:
 
@@ -163,7 +163,7 @@ key aspects:
 
 Subnetting - Process of dividing a network into smaller subnetworks
 
-CIDR - Method to represent IP addresses and subnet masks
+CIDR (Classless Inter-Domain Routing) - Method to represent IP addresses and subnet masks
 
 
 
@@ -204,7 +204,17 @@ Benefits:
 
 
 
+Subnetting Sheet:
 
+<figure><img src="../../../.gitbook/assets/image.png" alt="Subnetting Sheet"><figcaption><p>Source: The Cyber Mentor</p></figcaption></figure>
+
+Bits Sheet:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="Bits Sheet"><figcaption><p>Source: The Cyber Mentor</p></figcaption></figure>
+
+How to calculate the Subnet:
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="How to calculate the Subnet"><figcaption></figcaption></figure>
 
 
 

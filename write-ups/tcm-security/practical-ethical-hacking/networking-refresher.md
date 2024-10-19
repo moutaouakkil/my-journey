@@ -128,32 +128,19 @@ wireshark&
 
 TCP Protocols:
 
-| Protocol                                   | Port |
-| ------------------------------------------ | ---- |
-| FTP (File Transfer Protocol)               | 21   |
-| SSH (Secure Shell)                         | 22   |
-| Telnet                                     | 23   |
-| SMTP (Simple Mail Transfer Protocol)       | 25   |
-| HTTP (Hypertext Transfer Protocol)         | 80   |
-| HTTPS (Hypertext Transfer Protocol Secure) | 443  |
-| POP3 (Post Office Protocol version 3)      | 110  |
-| IMAP (Internet Message Access Protocol)    | 143  |
-| RDP (Remote Desktop Protocol)              | 3389 |
-| SMB (Server Message Block)                 | 445  |
-| FTPS (FTP over SSL/TLS)                    | 990  |
-| MySQL                                      | 3306 |
+<table><thead><tr><th width="414">Protocol</th><th width="87">Port</th></tr></thead><tbody><tr><td>FTP (File Transfer Protocol)</td><td>21</td></tr><tr><td>SSH (Secure Shell)</td><td>22</td></tr><tr><td>Telnet</td><td>23</td></tr><tr><td>SMTP (Simple Mail Transfer Protocol)</td><td>25</td></tr><tr><td>HTTP (Hypertext Transfer Protocol)</td><td>80</td></tr><tr><td>HTTPS (Hypertext Transfer Protocol Secure)</td><td>443</td></tr><tr><td>POP3 (Post Office Protocol version 3)</td><td>110</td></tr><tr><td>IMAP (Internet Message Access Protocol)</td><td>143</td></tr><tr><td>RDP (Remote Desktop Protocol)</td><td>3389</td></tr><tr><td>SMB (Server Message Block)</td><td>445</td></tr><tr><td>FTPS (FTP over SSL/TLS)</td><td>990</td></tr><tr><td>MySQL</td><td>3306</td></tr></tbody></table>
 
 
 
 UDP Protocols:
 
-<table><thead><tr><th width="411">Protocol</th><th>Port</th></tr></thead><tbody><tr><td>DHCP (Dynamic Host Configuration Protocol)</td><td>67, 68</td></tr><tr><td>SNMP (Simple Network Management Protocol)</td><td>161</td></tr><tr><td>NTP (Network Time Protocol)</td><td>123</td></tr><tr><td>TFTP (Trivial File Transfer Protocol)</td><td>69</td></tr></tbody></table>
+<table><thead><tr><th width="414">Protocol</th><th width="88">Port</th></tr></thead><tbody><tr><td>DHCP (Dynamic Host Configuration Protocol)</td><td>67, 68</td></tr><tr><td>SNMP (Simple Network Management Protocol)</td><td>161</td></tr><tr><td>NTP (Network Time Protocol)</td><td>123</td></tr><tr><td>TFTP (Trivial File Transfer Protocol)</td><td>69</td></tr></tbody></table>
 
 
 
 Protocols using both TCP and UDP:
 
-<table><thead><tr><th width="402">Protocol</th><th>Port</th></tr></thead><tbody><tr><td>DNS (Domain Name System)</td><td>53</td></tr><tr><td>LDAP (Lightweight Directory Access Protocol)</td><td>389</td></tr></tbody></table>
+<table><thead><tr><th width="414">Protocol</th><th width="90">Port</th></tr></thead><tbody><tr><td>DNS (Domain Name System)</td><td>53</td></tr><tr><td>LDAP (Lightweight Directory Access Protocol)</td><td>389</td></tr></tbody></table>
 
 
 

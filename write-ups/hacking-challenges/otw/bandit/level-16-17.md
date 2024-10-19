@@ -77,7 +77,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 * `>`: Redirects the output to a file
 * `~/Desktop/sshkey_private_b17`: The file path and name to save the key
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
 
 4. Change the permissions of the key file for security:
 
@@ -88,7 +88,7 @@ chmod 600 ~/Desktop/sshkey_private_b17
 * `chmod`: Changes the permissions of the file
 * `600`: Sets read and write permissions for the owner only
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Use the private key to access the next level:
 

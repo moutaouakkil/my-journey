@@ -12,7 +12,6 @@ Good question! There are a few reasons:
 
 * Knowledge Reinforcement – You know how they say the best way to learn something is to teach it? Well, I'm taking that to heart. By writing about what I'm learning, I'm forcing myself to really understand the concepts. It's like having a conversation with my future self.
 * Personal Reference – This site serves as my own personal cheat sheet. Whenever I need to recall a specific technique or tool, I know exactly where to look.
-* Proof of Dedication – Part of this is to show potential employers that I'm serious about this stuff. In a field that's constantly evolving, showing initiative and continuous learning is crucial.
 
 
 

@@ -186,18 +186,11 @@ CIDR Notation:
 
 Subnetting example:
 
-| Original Network | 192.168.0.0/24 |
-| ---------------- | -------------- |
-| Subnet Mask      | 255.255.255.0  |
+<table><thead><tr><th width="174">Original Network</th><th width="163">192.168.0.0/24</th></tr></thead><tbody><tr><td>Subnet Mask</td><td>255.255.255.0</td></tr></tbody></table>
 
 Subnetting (borrowing 2 bits):
 
-| Subnet | Network Range                 | CIDR Notation    |
-| ------ | ----------------------------- | ---------------- |
-| 1      | 192.168.0.0 - 192.168.0.63    | 192.168.0.0/26   |
-| 2      | 192.168.0.64 - 192.168.0.127  | 192.168.0.64/26  |
-| 3      | 192.168.0.128 - 192.168.0.191 | 192.168.0.128/26 |
-| 4      | 192.168.0.192 - 192.168.0.255 | 192.168.0.192/26 |
+<table><thead><tr><th width="106">Subnet</th><th width="246">Network Range</th><th width="180">CIDR Notation</th></tr></thead><tbody><tr><td>1</td><td>192.168.0.0 - 192.168.0.63</td><td>192.168.0.0/26</td></tr><tr><td>2</td><td>192.168.0.64 - 192.168.0.127</td><td>192.168.0.64/26</td></tr><tr><td>3</td><td>192.168.0.128 - 192.168.0.191</td><td>192.168.0.128/26</td></tr><tr><td>4</td><td>192.168.0.192 - 192.168.0.255</td><td>192.168.0.192/26</td></tr></tbody></table>
 
 New Subnet Mask: `255.255.255.192`
 

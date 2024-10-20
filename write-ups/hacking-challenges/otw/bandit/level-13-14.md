@@ -22,7 +22,7 @@ ls
 cat sshkey.private
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
 
 This reveals <mark style="color:orange;">sshkey.private</mark> contains an RSA private key.
 

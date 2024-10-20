@@ -5,7 +5,6 @@
   * [TCM Security](write-ups/tcm-security/README.md)
     * [Practical Ethical Hacking](write-ups/tcm-security/practical-ethical-hacking/README.md)
       * [Networking Refresher](write-ups/tcm-security/practical-ethical-hacking/networking-refresher.md)
-      * [Setting Up The Lab](write-ups/tcm-security/practical-ethical-hacking/setting-up-the-lab.md)
       * [The Ethical Hacker Methodology](write-ups/tcm-security/practical-ethical-hacking/the-ethical-hacker-methodology.md)
       * [Information Gathering (Reconnaissance)](write-ups/tcm-security/practical-ethical-hacking/information-gathering-reconnaissance.md)
       * [Scanning & Enumeration](write-ups/tcm-security/practical-ethical-hacking/scanning-and-enumeration.md)

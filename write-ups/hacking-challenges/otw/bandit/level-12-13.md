@@ -16,7 +16,7 @@ cp data.txt /tmp/tmp.83OGZ2BEJL
 cd /tmp/tmp.83OGZ2BEJL
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="mktemp -d &#x26; cp data.txt /tmp/tmp.83OGZ2BEJL &#x26; cd /tmp/tmp.83OGZ2BEJL"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="mktemp -d &#x26; cp data.txt /tmp/tmp.83OGZ2BEJL &#x26; cd /tmp/tmp.83OGZ2BEJL"><figcaption></figcaption></figure>
 
 2. Reverse the hexdump:
 

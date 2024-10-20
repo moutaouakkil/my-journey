@@ -34,7 +34,7 @@ This command reveals <mark style="color:orange;">.file2</mark> as the only file 
 cat $(find inhere -type f -readable -size 1033c ! -executable)
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cat $(find inhere -type f -readable -size 1033c ! -executable)"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cat $(find inhere -type f -readable -size 1033c ! -executable)"><figcaption></figcaption></figure>
 
 * `cat`: Command to display the content of a file
 * `$()`: Command substitution. It allows the output of a command to be used as an argument for another command

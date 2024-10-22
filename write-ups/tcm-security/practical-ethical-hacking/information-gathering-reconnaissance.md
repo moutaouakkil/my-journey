@@ -1,8 +1,6 @@
 # Information Gathering (Reconnaissance)
 
-## Overview
-
-### Passive Recon
+## Passive Recon
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt="Passive Recon: Physical / Social"><figcaption></figcaption></figure>
 
@@ -12,7 +10,7 @@
 
 
 
-## Identifying My Target
+## Identifying The Target
 
 I used [Bugcrowd](https://bugcrowd.com) (a public Bug Bounty Program) to identify my target T-Mobile.
 
@@ -41,3 +39,4 @@ I used [Bugcrowd](https://bugcrowd.com) (a public Bug Bounty Program) to identif
 ## Gathering Breached Credentials with Breach-Parse
 
 ...
+

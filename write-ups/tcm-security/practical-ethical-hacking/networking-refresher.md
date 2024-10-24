@@ -215,10 +215,3 @@ Bits Sheet:
 How to calculate the Subnet:
 
 <figure><img src="../../../.gitbook/assets/image (32).png" alt="How to calculate the Subnet"><figcaption></figcaption></figure>
-
-
-
-\-- Othmane
-
-
-

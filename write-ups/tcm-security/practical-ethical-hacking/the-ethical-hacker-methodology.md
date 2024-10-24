@@ -47,10 +47,3 @@ Ethical hacking, also known as penetration testing or white-hat hacking, follows
 
 
 Ethical hacking must be conducted with proper authorization and in full compliance with legal requirements. Practitioners are bound by strict ethical guidelines and confidentiality agreements. It is crucial to obtain explicit permission from system or network owners prior to performing any penetration testing activities. This ensures the integrity of the process and maintains trust between ethical hackers and their clients.
-
-
-
-\-- Othmane
-
-
-

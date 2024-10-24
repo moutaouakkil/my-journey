@@ -17,7 +17,7 @@
 **Web/Host:**
 
 * Target Validation: [WHOIS](https://who.is), [nslookup](https://www.nslookup.io), [dnsrecon](https://www.kali.org/tools/dnsrecon)
-* Finding Subdomains: [Google FU](https://github.com/champmq/GoogleFU), [dig](https://toolbox.googleapps.com/apps/dig), [Nmap](https://nmap.org), [Sublist3r](https://www.kali.org/tools/sublist3r), [Bluto](https://github.com/darryllane/Bluto), [crt.sh](https://crt.sh), etc.
+* Finding Subdomains: [Google FU](https://github.com/champmq/GoogleFU), [dig](https://toolbox.googleapps.com/apps/dig), [Nmap](https://nmap.org), [Sublist3r](https://www.kali.org/tools/sublist3r), [Bluto](https://github.com/darryllane/Bluto), [crt.sh](https://crt.sh)
 * Fingerpriting: [Nmap](https://nmap.org), [Wappalyzer](https://www.wappalyzer.com), [WhatWeb](https://whatweb.net), [BuiltWith](https://builtwith.com), [Netcat](https://sectools.org/tool/netcat)
 * Data Breaches: [HaveIBeenPwned](https://haveibeenpwned.com), [Breach-Parse](https://github.com/hmaverickadams/breach-parse), [WeLeakInfo](https://weleakinfo.io)
 

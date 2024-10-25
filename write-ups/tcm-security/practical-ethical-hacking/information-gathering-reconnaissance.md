@@ -1,6 +1,6 @@
 # Information Gathering (Reconnaissance)
 
-## Passive Recon
+Passive Recon
 
 **Physical Engagement/Social Engineering:**
 
@@ -35,25 +35,25 @@ Read the program details carefully and ensure that your testing activities compl
 
 ## Discovering Email Addresses
 
-[Hunter.io](https://hunter.io): find and verify professional email addresses
+[Hunter.io](https://hunter.io) - find and verify professional email addresses
 
 <figure><img src="../../../.gitbook/assets/Untitled (2).png" alt="T-Mobile email addresses found using Hunter.io"><figcaption><p><a href="https://hunter.io/try/search/t-mobile.com?locale=en">https://hunter.io/try/search/t-mobile.com?locale=en</a></p></figcaption></figure>
 
 
 
-[Phonebook.cz](https://phonebook.cz): lists all domains, email addresses, or URLs for the given input domain.
+[Phonebook.cz](https://phonebook.cz) - lists all domains, email addresses, or URLs for the given input domain.
 
-[Voila Norbert](https://www.voilanorbert.com): great for getting the email addresses you need.
+[Voila Norbert](https://www.voilanorbert.com) - great for getting the email addresses you need.
 
-[Clearbit](https://clearbit.com): free, verified B2B emails (it has to be used on Chrome).
+[Clearbit](https://clearbit.com) - free, verified B2B emails (it has to be used on Chrome).
 
-[Email Hippo](https://tools.emailhippo.com): free online email verification tool.
+[Email Hippo](https://tools.emailhippo.com) - free online email verification tool.
 
 
 
 ## Gathering Breached Credentials with Breach-Parse
 
-[breach-parse](https://github.com/hmaverickadams/breach-parse): A tool for parsing breached passwords
+[breach-parse](https://github.com/hmaverickadams/breach-parse) - a tool for parsing breached passwords
 
 ```sh
 breach-parse @t-mobile.com t-mobile.txt "~/Downloads/BreachCompilation/data"
@@ -65,7 +65,7 @@ The obtained results can be leveraged for Credential Stuffing and Password Spray
 
 ## Hunting Breached Credentials with DeHashed
 
-[DeHashed](https://dehashed.com): Have you been compromised? DeHashed provides free deep-web scans and protection against credential leaks.
+[DeHashed](https://dehashed.com) - Have you been compromised? DeHashed provides free deep-web scans and protection against credential leaks.
 
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption><p><a href="https://dehashed.com/">https://dehashed.com</a></p></figcaption></figure>
 
@@ -75,7 +75,7 @@ Hashes.org is down, therefore, use [Hashes.com](https://hashes.com/en/decrypt/ha
 
 ## Hunting Subdomains
 
-[Sublist3r](https://www.kali.org/tools/sublist3r): Finding Subdomains
+[Sublist3r](https://www.kali.org/tools/sublist3r) - Finding Subdomains
 
 1. Synchronize the local package database with repository sources:
 
@@ -101,7 +101,7 @@ A command that enumerates subdomains of <mark style="color:orange;">T-Mobile.com
 
 
 
-[crt.sh](https://crt.sh): to look for registered certificates
+[crt.sh](https://crt.sh) - to look for registered certificates
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 225943.png" alt="crt.sh"><figcaption></figcaption></figure>
 
@@ -109,7 +109,7 @@ A command that enumerates subdomains of <mark style="color:orange;">T-Mobile.com
 
 
 
-[OWASP Amass](https://github.com/owasp-amass/amass): In-depth attack surface mapping and asset discovery
+[OWASP Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 1. Install the GCC-based compiler for the `Go` programming language:
 
@@ -139,7 +139,7 @@ go install -v github.com/owasp-amass/amass/v4/...@master
 
 
 
-[httprobe](https://github.com/tomnomnom/httprobe): Take a list of domains and probe for working HTTP and HTTPS servers
+[httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 
 1. Install httprobe:
 
@@ -160,5 +160,64 @@ This will narrow the list to the active subdomains.
 
 
 ## Identifying Website Technologies
+
+[BuiltWith](https://builtwith.com) - Web technology information profiler tool. Find out what a website is built with.
+
+<figure><img src="../../../.gitbook/assets/Untitled (3).png" alt=""><figcaption><p><a href="https://builtwith.com/">https://builtwith.com</a></p></figcaption></figure>
+
+This will display a detailed list of technologies <mark style="color:orange;">T-mobile.com</mark> is built with:
+
+* Analytics and Tracking
+* Widgets
+* Language
+* Frameworks
+* Mapping
+* Content Delivery Network
+* Mobile
+* Payment
+* Audio / Video Media
+* Content Management System
+* JavaScript Libraries and Functions
+* Verified Link
+* Advertising
+* SSL Certificates
+* Name Server
+* Email Hosting Providers
+* Web Hosting Providers
+* Web Servers
+* Operating Systems and Servers
+* Verified CDN
+* Robots.txt
+* Web Master Registration
+* Content Delivery Network
+
+
+
+Preview of <mark style="color:orange;">Analytics and Tracking</mark>:
+
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption><p><a href="https://builtwith.com/t-mobile.com">https://builtwith.com/t-mobile.com</a></p></figcaption></figure>
+
+
+
+[Wappalyzer](https://www.wappalyzer.com) - Identify technologies on websites
+
+<figure><img src="../../../.gitbook/assets/Untitled (4).png" alt="Wappalyzer - T-Mobile.com"><figcaption></figcaption></figure>
+
+
+
+[WhatWeb](https://www.kali.org/tools/whatweb) - Next generation web scanner version
+
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+```bash
+whatweb t-mobile.com
+whatweb tmobile.com
+```
+
+<figure><img src="../../../.gitbook/assets/image (48).png" alt="whatweb t-mobile.com &#x26;&#x26; whatweb tmobile.com"><figcaption></figcaption></figure>
+
+
+
+## Information Gathering with Burp Suite
 
 ...

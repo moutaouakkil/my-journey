@@ -21,7 +21,7 @@ nmap -sV localhost -p 31000-32000
 * `localhost`: The target (the working machine)
 * `-p 31000-32000`: Specifies the port range to scan
 
-<figure><img src="../../../../.gitbook/assets/Untitled (1) (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled (1) (1) (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
 
 The SSL/TLS port <mark style="color:orange;">31790</mark> was identified from the `nmap` results.
 

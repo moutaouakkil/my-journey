@@ -228,11 +228,11 @@ whatweb tmobile.com
 
 2. Access `https://burp` and download the `CA Certificate`:
 
-<figure><img src="../../../.gitbook/assets/Untitled (1).png" alt="Access https://burp and download the CA Certificate"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled (1) (1).png" alt="Access https://burp and download the CA Certificate"><figcaption></figcaption></figure>
 
 3. Import the `CA Certificate`:
 
-<figure><img src="../../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled.png" alt="Import the CA Certificate"><figcaption></figcaption></figure>
 
 4. Access `T-Mobile.com` through Firefox:
 
@@ -245,3 +245,4 @@ Here we can find very useful information.
 ## Google Fu
 
 ...
+

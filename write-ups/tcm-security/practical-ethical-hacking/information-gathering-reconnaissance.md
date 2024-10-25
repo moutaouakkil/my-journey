@@ -1,6 +1,6 @@
 # Information Gathering (Reconnaissance)
 
-Passive Recon
+## Passive Recon
 
 **Physical Engagement/Social Engineering:**
 
@@ -97,7 +97,7 @@ sublist3r -d t-mobile.com
 
 <figure><img src="../../../.gitbook/assets/image (39).png" alt="sublist3r -d t-mobile.com"><figcaption></figcaption></figure>
 
-A command that enumerates subdomains of <mark style="color:orange;">T-Mobile.com</mark> using various search engines.
+This enumerates subdomains of <mark style="color:orange;">T-Mobile.com</mark> using various search engines.
 
 
 
@@ -221,3 +221,4 @@ whatweb tmobile.com
 ## Information Gathering with Burp Suite
 
 ...
+

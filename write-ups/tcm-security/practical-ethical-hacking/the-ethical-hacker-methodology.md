@@ -1,6 +1,6 @@
 # The Ethical Hacker Methodology
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="The Five Stages of Ethical Hacking"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="The Five Stages of Ethical Hacking"><figcaption></figcaption></figure>
 
 
 

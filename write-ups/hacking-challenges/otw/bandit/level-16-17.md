@@ -21,7 +21,7 @@ nmap -sV localhost -p 31000-32000
 * `localhost`: The target (the working machine)
 * `-p 31000-32000`: Specifies the port range to scan
 
-<figure><img src="../../../../.gitbook/assets/Untitled (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled (1) (1).png" alt="nmap -sV localhost -p 31000-32000"><figcaption></figcaption></figure>
 
 The SSL/TLS port <mark style="color:orange;">31790</mark> was identified from the `nmap` results.
 
@@ -37,7 +37,7 @@ echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | openssl s_client -connect localhost:31
 * `-connect localhost:31790`: Specifies the host and port to connect to
 * `-ign_eof`: Ignores EOF (end-of-file), keeping the connection open
 
-<figure><img src="../../../../.gitbook/assets/Untitled.png" alt="echo &#x22;kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx&#x22; | openssl s_client -connect localhost:31790 -ign_eof"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled (3).png" alt="echo &#x22;kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx&#x22; | openssl s_client -connect localhost:31790 -ign_eof"><figcaption></figcaption></figure>
 
 This outputs the <mark style="color:orange;">RSA Private Key</mark>.
 
@@ -77,7 +77,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 * `>`: Redirects the output to a file
 * `~/Desktop/sshkey_private_b17`: The file path and name to save the key
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="Save the RSA Private Key to a file"><figcaption></figcaption></figure>
 
 4. Change the permissions of the key file for security:
 

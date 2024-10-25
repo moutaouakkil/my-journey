@@ -23,7 +23,7 @@ cd inhere
 ls -a
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cd inhere &#x26; ls -a"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cd inhere &#x26; ls -a"><figcaption></figcaption></figure>
 
 This reveals the presence of a hidden file named <mark style="color:orange;">...Hiding-From-You</mark>.
 

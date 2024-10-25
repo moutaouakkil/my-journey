@@ -37,7 +37,7 @@ Read the program details carefully and ensure that your testing activities compl
 
 [Hunter.io](https://hunter.io) - find and verify professional email addresses
 
-<figure><img src="../../../.gitbook/assets/Untitled (2).png" alt="T-Mobile email addresses found using Hunter.io"><figcaption><p><a href="https://hunter.io/try/search/t-mobile.com?locale=en">https://hunter.io/try/search/t-mobile.com?locale=en</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled (2) (1).png" alt="T-Mobile email addresses found using Hunter.io"><figcaption><p><a href="https://hunter.io/try/search/t-mobile.com?locale=en">https://hunter.io/try/search/t-mobile.com?locale=en</a></p></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ This will narrow the list to the active subdomains.
 
 [BuiltWith](https://builtwith.com) - Web technology information profiler tool. Find out what a website is built with.
 
-<figure><img src="../../../.gitbook/assets/Untitled (3).png" alt=""><figcaption><p><a href="https://builtwith.com/">https://builtwith.com</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled (3) (1).png" alt=""><figcaption><p><a href="https://builtwith.com/">https://builtwith.com</a></p></figcaption></figure>
 
 This will display a detailed list of technologies <mark style="color:orange;">T-mobile.com</mark> is built with:
 
@@ -220,5 +220,28 @@ whatweb tmobile.com
 
 ## Information Gathering with Burp Suite
 
-...
+[Burp Suite](https://portswigger.net/burp) - The class-leading vulnerability scanning, penetration testing, and web app security platform. Burp Suite's main feature is the Proxy. The Proxy enables Burp to act as an intermediary between the client (web browser) and the server hosting the web application.
 
+1. Set up Firefox for using Burp Suite:
+
+<figure><img src="../../../.gitbook/assets/Untitled.jpg" alt="Set up Firefox for using Burp Suite"><figcaption></figcaption></figure>
+
+2. Access `https://burp` and download the `CA Certificate`:
+
+<figure><img src="../../../.gitbook/assets/Untitled (1).png" alt="Access https://burp and download the CA Certificate"><figcaption></figcaption></figure>
+
+3. Import the `CA Certificate`:
+
+<figure><img src="../../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+
+4. Access `T-Mobile.com` through Firefox:
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="Access T-Mobile.com through Firefox"><figcaption></figcaption></figure>
+
+Here we can find very useful information.
+
+
+
+## Google Fu
+
+...

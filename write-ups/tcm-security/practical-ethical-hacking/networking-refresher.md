@@ -1,6 +1,6 @@
 # Networking Refresher
 
-Introduction
+## Introduction
 
 * IP Addresses
 * MAC Addresses

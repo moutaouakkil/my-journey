@@ -244,5 +244,31 @@ Here we can find very useful information.
 
 ## Google Fu
 
-...
+Google-Fu (uncountable) (informal) A skill in using search engines (especially Google) to quickly find useful information on the Internet.
+
+[Google Search Operators (Dorks)](https://ahrefs.com/blog/google-advanced-search-operators) - The Complete List (44 Advanced Operators)
+
+Example:
+
+```
+site:t-mobile.com -www filetype:pdf
+```
+
+* `site:t-mobile.com`: Restricts search to t-mobile.com and its subdomains
+* `-www`: Excludes results from www.t-mobile.com
+* `filetype:pdf`: Returns only PDF files
+
+
+
+## Utilizing Social Media
+
+Social media platforms like [LinkedIn](https://www.linkedin.com), [Twitter (X)](https://x.com), [Facebook](https://www.facebook.com), [Instagram](https://www.instagram.com), etc. are valuable resources for conducting Open-Source Intelligence (OSINT) gathering through publicly available information.
+
+
+
+## Additional Learning, Open-Source Intelligence (OSINT)
+
+On a separate page: [Open-Source Intelligence (OSINT)](../open-source-intelligence-osint.md)
+
+
 

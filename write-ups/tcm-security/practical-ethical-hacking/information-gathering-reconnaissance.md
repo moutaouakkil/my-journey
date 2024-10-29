@@ -236,7 +236,7 @@ whatweb tmobile.com
 
 4. Access `T-Mobile.com` through Firefox:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="Access T-Mobile.com through Firefox"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="Access T-Mobile.com through Firefox"><figcaption></figcaption></figure>
 
 Here we can find very useful information.
 

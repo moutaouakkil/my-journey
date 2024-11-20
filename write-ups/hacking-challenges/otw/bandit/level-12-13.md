@@ -16,7 +16,7 @@ cp data.txt /tmp/tmp.83OGZ2BEJL
 cd /tmp/tmp.83OGZ2BEJL
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="mktemp -d &#x26; cp data.txt /tmp/tmp.83OGZ2BEJL &#x26; cd /tmp/tmp.83OGZ2BEJL"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="mktemp -d &#x26; cp data.txt /tmp/tmp.83OGZ2BEJL &#x26; cd /tmp/tmp.83OGZ2BEJL"><figcaption></figcaption></figure>
 
 2. Reverse the hexdump:
 
@@ -24,7 +24,7 @@ cd /tmp/tmp.83OGZ2BEJL
 xxd -r data.txt > data
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Determine the file type and decompress repeatedly:
 
@@ -53,7 +53,7 @@ gzip -d data8.gz
 file data8
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="Determined the file type and decompressed repeatedly"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="Determined the file type and decompressed repeatedly"><figcaption></figcaption></figure>
 
 4. Finally, the password was revealed:
 

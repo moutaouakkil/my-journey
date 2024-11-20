@@ -22,7 +22,7 @@ ls
 cat sshkey.private
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cat sshkey.private"><figcaption></figcaption></figure>
 
 This reveals <mark style="color:orange;">sshkey.private</mark> contains an RSA private key.
 
@@ -36,7 +36,7 @@ ssh -i sshkey.private -p 2220 bandit14@localhost
 * `-p 2220`: Specifies the port for the OverTheWire game server
 * `bandit14@localhost`: Connects to user bandit14 on the same machine
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="ssh -i sshkey.private -p 2220 bandit14@localhost"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="ssh -i sshkey.private -p 2220 bandit14@localhost"><figcaption></figcaption></figure>
 
 Note: Are you sure you want to continue connecting (yes/no/\[fingerprint])? Yes
 

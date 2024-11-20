@@ -14,7 +14,7 @@ The password for the next level is stored in a file called <mark style="color:or
 ls
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="ls"><figcaption></figcaption></figure>
 
 This confirms the existence of a file named <mark style="color:orange;">-</mark>.
 

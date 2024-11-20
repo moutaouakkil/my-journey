@@ -48,6 +48,7 @@
         * [Level 15 → 16](write-ups/hacking-challenges/otw/bandit/level-15-16.md)
         * [Level 16 → 17](write-ups/hacking-challenges/otw/bandit/level-16-17.md)
         * [Level 17 → 18](write-ups/hacking-challenges/otw/bandit/level-17-18.md)
+        * [Level 18 → 19](write-ups/hacking-challenges/otw/bandit/level-18-19.md)
       * [Natas](write-ups/hacking-challenges/otw/natas.md)
       * [Leviathan](write-ups/hacking-challenges/otw/leviathan.md)
       * [Krypton](write-ups/hacking-challenges/otw/krypton.md)

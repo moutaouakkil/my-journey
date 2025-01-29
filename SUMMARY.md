@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [OSCP Journey](oscp-journey/README.md)
+  * [HTB](oscp-journey/htb/README.md)
+    * [HTB Linux Boxes](oscp-journey/htb/htb-linux-boxes.md)
+    * [HTB Windows Boxes](oscp-journey/htb/htb-windows-boxes.md)
 * [Write-Ups](write-ups/README.md)
   * [TCM Security](write-ups/tcm-security/README.md)
     * [Practical Ethical Hacking](write-ups/tcm-security/practical-ethical-hacking/README.md)
@@ -60,9 +64,6 @@
       * [Manpage](write-ups/hacking-challenges/otw/manpage.md)
       * [Drifter](write-ups/hacking-challenges/otw/drifter.md)
       * [FormulaOne](write-ups/hacking-challenges/otw/formulaone.md)
-    * [HTB](write-ups/hacking-challenges/htb/README.md)
-      * [HTB Linux Boxes](write-ups/hacking-challenges/htb/htb-linux-boxes.md)
-      * [HTB Windows Boxes](write-ups/hacking-challenges/htb/htb-windows-boxes.md)
     * [THM](write-ups/hacking-challenges/thm.md)
 * [Research](research.md)
 * [Resume](resume.md)

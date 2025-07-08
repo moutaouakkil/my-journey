@@ -2,7 +2,7 @@
 
 ### My hacking Journey: An Introduction
 
-Hey there! Welcome to my corner of the internet where I document my adventures in the world of hacking. I'm [**Othmane Moutaouakkil**](./#contact-me), a Computer and Software Engineering student with a growing passion for cybersecurity and ethical hacking. This site is essentially my digital journal, a place where I can share my progress, struggles, and victories as I dive into this fascinating field.
+Hey there! Welcome to my corner of the internet where I document my adventures in the world of hacking. I'm [**Othmane Moutaouakkil**](./#contact-me), a Computer and Software Engineer with a growing passion for cybersecurity and ethical hacking. This site is essentially my digital journal, a place where I can share my progress, struggles, and victories as I dive into this fascinating field.
 
 
 

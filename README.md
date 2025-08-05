@@ -44,7 +44,7 @@ Let's hack and learn together!
 
 ### Contact Me
 
-Email Address: [Othmane Moutaouakkil](https://app.gitbook.com/u/mWhyHksiu0favKelCp4jfMWsQ1x2 "mention")
+Email Address: [contact@othmanemoutaouakkil.com](mailto:contact@othmanemoutaouakkil.com)
 
 LinkedIn: [Othmane Moutaouakkil](https://www.linkedin.com/in/moutaouakkil)
 
